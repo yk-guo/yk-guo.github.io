@@ -38,7 +38,7 @@ Do not copy this example as an actual publication. The existing `community/citat
 
 ## CV
 
-The supplied CV is published at `static/docs/Yunkun_GUO_CV.pdf`. Replace this file to update it, keeping the same filename. Navigation and profile CV links both point to `/docs/Yunkun_GUO_CV.pdf`. The PDF is served unchanged.
+The supplied CV is published at `static/docs/yunkun_guo_cv.pdf`. Replace this file to update it, keeping the same filename. Navigation and profile CV links both point to `/docs/yunkun_guo_cv.pdf`. The PDF is served unchanged.
 
 ## Site configuration
 
