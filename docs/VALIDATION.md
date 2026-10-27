@@ -9,5 +9,12 @@
 - Mobile navigation expands; display preference menu exposes light/dark/automatic options.
 - Current content, configuration, templates and built HTML scanned for former author's identifying text; none found. Provenance documentation and Git history intentionally retain source attribution.
 - MIT license and framework credit retained. go.mod versions unchanged; go.sum included for reproducibility.
-- GitHub Pages workflow reviewed and restricted to yk-guo/yk-guo.github.io. Remote Actions execution/deployment NOT verified: publication has not been authorized.
+- GitHub Pages workflow reviewed and restricted to yk-guo/yk-guo.github.io. Deployment authorized and verified on 2026-10-27: build and deploy succeeded in Actions run 40437590617.
 - Screenshots: output/playwright/desktop.png, mobile.png, reference-desktop.png (local verification artifacts, ignored by Git).
+
+## Live deployment — 2026-10-27
+
+- https://yk-guo.github.io/ loads successfully with the supplied cityscape avatar.
+- Desktop 1440px and mobile 390px screenshots captured; no broken images or horizontal overflow.
+- Canonical URL and email verified; previous author name absent.
+- Public history contains cleaned source only. The upstream history is on a local-only backup branch; never push it.

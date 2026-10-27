@@ -37,4 +37,4 @@ The workflow uses Hugo Extended 0.124.1, builds the root site URL and deploys th
 
 ## Attribution
 
-Adapted from https://github.com/jiarui-liu/jiarui-liu.github.io using Hugo Blox Academic CV. Original MIT license is retained in `LICENSE.md`; template license comments and framework footer credits remain. Upstream Git history is retained for provenance; removed personal files are absent from the current source and output, but remain in that historical history.
+Adapted from https://github.com/jiarui-liu/jiarui-liu.github.io using Hugo Blox Academic CV. Original MIT license is retained in `LICENSE.md`; template license comments and framework footer credits remain. The public repository starts with the cleaned source only. Upstream history is retained solely in the local `local-upstream-backup` branch; do not push that branch or use `git push --all`.
