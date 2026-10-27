@@ -38,7 +38,7 @@ Do not copy this example as an actual publication. The existing `community/citat
 
 ## CV
 
-Put the real PDF at `static/docs/Yunkun_GUO_CV.pdf` (create directories). Add a CV entry to `config/_default/menus.yaml` with `url: /docs/Yunkun_GUO_CV.pdf`, and optionally an `ai` / `cv` social entry in the author profile. Do not enable links before the file exists.
+The supplied CV is published at `static/docs/Yunkun_GUO_CV.pdf`. Replace this file to update it, keeping the same filename. Navigation and profile CV links both point to `/docs/Yunkun_GUO_CV.pdf`. The PDF is served unchanged.
 
 ## Site configuration
 

@@ -22,6 +22,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/yk-guo
+  - icon: cv
+    icon_pack: ai
+    link: /docs/Yunkun_GUO_CV.pdf
 highlight_name: true
 ---
 I am an undergraduate student majoring in Computer Science and Technology at Southeast University. My current interests include large language model agents, multi-agent systems, and reinforcement learning. I am exploring how intelligent agents can reason, learn, and collaborate to solve complex tasks.
